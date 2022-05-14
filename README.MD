@@ -13,6 +13,7 @@ First, a list with shortcuts in format:
 [receipe name](relative link to the webpage)
 ```
 would be of great convenience. A start:
+
 [Creamy Cauliflower Curry Soup](2021/03/09/test/index.html)
 
 
